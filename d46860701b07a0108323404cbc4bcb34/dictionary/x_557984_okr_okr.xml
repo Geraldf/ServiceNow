@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Objective" max_length="40" name="x_557984_okr_okr" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="OKR" max_length="40" name="okr" type="string"/>
+        <element label="Parent OKR" max_length="32" name="parent_okr" reference="x_557984_okr_okr" type="reference"/>
+        <element label="Project" max_length="32" name="project" reference="pm_project" type="reference"/>
+        <element label="Short Description" max_length="200" name="short_description" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="parent_okr"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

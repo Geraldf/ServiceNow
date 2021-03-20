@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>routeConfigId</name>
+        <page display_value="OKR">8a2c8181d8c724102498eae14d188166</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-20 14:35:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>0e2c8181eec72410db2e4a56eccf2866</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>routeConfigId</sys_name>
+        <sys_package display_value="OKR" source="x_557984_okr">d46860701b07a0108323404cbc4bcb34</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OKR">d46860701b07a0108323404cbc4bcb34</sys_scope>
+        <sys_update_name>sys_ux_page_property_0e2c8181eec72410db2e4a56eccf2866</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-20 14:35:48</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_557984_okr.8a2c8181d8c724102498eae14d188166.root.routeConfigId</unique_name>
+        <value>76a302f10b131010a8b1c96237673a61</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=0e2c8181eec72410db2e4a56eccf2866"/>
+</record_update>

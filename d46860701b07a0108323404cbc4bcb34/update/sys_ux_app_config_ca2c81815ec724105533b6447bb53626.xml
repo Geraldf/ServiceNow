@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <default_route_type/>
+        <description>Workspace</description>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>OKR Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-20 14:35:48</sys_created_on>
+        <sys_id>ca2c81815ec724105533b6447bb53626</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OKR Config</sys_name>
+        <sys_package display_value="OKR" source="x_557984_okr">d46860701b07a0108323404cbc4bcb34</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OKR">d46860701b07a0108323404cbc4bcb34</sys_scope>
+        <sys_update_name>sys_ux_app_config_ca2c81815ec724105533b6447bb53626</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-20 14:35:48</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=ca2c81815ec724105533b6447bb53626"/>
+</record_update>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_557984_okr_keyresult" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_557984_okr_keyresult" element="NULL" name="x_557984_okr_keyresult" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e88a05c51b8324108323404cbc4bcb36</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-20 14:28:36</sys_created_on>
+            <sys_id>a08ac1cd1b8724108323404cbc4bcb6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-20 14:28:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>achievement_description</element>
+            <list_id display_value="x_557984_okr_keyresult" element="NULL" name="x_557984_okr_keyresult" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e88a05c51b8324108323404cbc4bcb36</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-20 14:28:36</sys_created_on>
+            <sys_id>a48ac1cd1b8724108323404cbc4bcb6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-20 14:28:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>achievment_quantity</element>
+            <list_id display_value="x_557984_okr_keyresult" element="NULL" name="x_557984_okr_keyresult" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e88a05c51b8324108323404cbc4bcb36</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-20 14:28:36</sys_created_on>
+            <sys_id>a88ac1cd1b8724108323404cbc4bcb6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-20 14:28:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>by_when_achieved</element>
+            <list_id display_value="x_557984_okr_keyresult" element="NULL" name="x_557984_okr_keyresult" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e88a05c51b8324108323404cbc4bcb36</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-20 14:28:36</sys_created_on>
+            <sys_id>ac8ac1cd1b8724108323404cbc4bcb6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-20 14:28:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>key_result</element>
+            <list_id display_value="x_557984_okr_keyresult" element="NULL" name="x_557984_okr_keyresult" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e88a05c51b8324108323404cbc4bcb36</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-20 14:28:36</sys_created_on>
+            <sys_id>a08ac1cd1b8724108323404cbc4bcb6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-20 14:28:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>objective</element>
+            <list_id display_value="x_557984_okr_keyresult" element="NULL" name="x_557984_okr_keyresult" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e88a05c51b8324108323404cbc4bcb36</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-20 14:28:36</sys_created_on>
+            <sys_id>a48ac1cd1b8724108323404cbc4bcb6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-20 14:28:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_557984_okr_keyresult" element="NULL" name="x_557984_okr_keyresult" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e88a05c51b8324108323404cbc4bcb36</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-20 14:28:36</sys_created_on>
+            <sys_id>a88ac1cd1b8724108323404cbc4bcb6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-20 14:28:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_557984_okr_keyresult</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-20 14:28:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e88a05c51b8324108323404cbc4bcb36</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_557984_okr_keyresult</sys_name>
+            <sys_package display_value="OKR" source="x_557984_okr">d46860701b07a0108323404cbc4bcb34</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OKR">d46860701b07a0108323404cbc4bcb34</sys_scope>
+            <sys_update_name>sys_ui_list_x_557984_okr_keyresult_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-20 14:28:36</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
